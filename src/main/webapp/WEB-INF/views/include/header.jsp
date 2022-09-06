@@ -16,10 +16,10 @@ html, body {
 header {
 	width: 100vw;
 	min-height: 15vh;
-	background-color: red;
+	background-color: gray;
 }
 /* section 동적 크기 */
-#section {
+section {
 	width: 100vw;
 	min-height: 70vh;
 }
@@ -28,7 +28,7 @@ header {
 footer {
 	width: 100vw;
 	min-height: 15vh;
-	background-color: aqua;
+	background-color: gray;
 }
 </style>
 <title>Shop</title>
