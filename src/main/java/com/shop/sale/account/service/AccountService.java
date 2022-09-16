@@ -18,6 +18,11 @@ public class AccountService  implements IAccountService{
 	 return mapper.accountInsert(accountVO);
 		
 	}
+
+	@Override
+	public int accountDuplicationId(String account_id) {
+		return mapper.accountDuplicationId(account_id);
+	}
 	
 	
 	
