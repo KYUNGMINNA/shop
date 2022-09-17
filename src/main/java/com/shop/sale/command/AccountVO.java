@@ -14,7 +14,6 @@ public class AccountVO {
 	private String account_id;
 	private String account_pw;
 	private String account_type;
-	private int asd;
 	
 	
 }
