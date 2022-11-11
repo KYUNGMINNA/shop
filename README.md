@@ -9,7 +9,7 @@
 <ul>
 <h4>Language : JAVA 8</h4>
 <h4>Framwork : SpringFramwork  5.3.18 , MyBatis 3.4.6</h4>
-<h4>Server : Apache Tomcat8.5</h4>
+<h4>Server : Apache Tomcat9.0</h4>
 <h4>DataBase :Mysql 8.0.28 (AWS RDS) </h4>
 </ul>
 
