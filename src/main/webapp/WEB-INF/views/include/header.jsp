@@ -8,9 +8,12 @@
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 <style>
 /* html ,body 크기 */
-html, body {
-	min-width: 100vh;
+
+html,body{
+	min-width: 100vw;
 	min-height: 100vh;
+
+	 margin:0 0 0 0 ;
 }
 /* header 동적 크기 */
 header {
